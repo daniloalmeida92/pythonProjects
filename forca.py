@@ -5,7 +5,7 @@ def jogar():
     print("***Bem vindo ao Jogo de Forca***")
     print("********************************")
 
-    print("Fim de jogo")
+    print("********Fim de jogo**********")
 
 if (__name__ == "__main__"):
     jogar()
